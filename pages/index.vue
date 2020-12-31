@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-31 09:53:23
- * @LastEditTime: 2020-12-31 15:45:11
+ * @LastEditTime: 2020-12-31 15:51:05
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \NUXT\nuxtdemo\pages\index.vue
@@ -11,7 +11,7 @@
     <div>
       <!-- <Logo /> -->
       <h1 class="title">
-        nuxtdemo
+        nuxtdemo2342
       </h1>
       <!-- <div class="links">
         <a
